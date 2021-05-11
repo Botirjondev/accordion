@@ -16,7 +16,7 @@ function App() {
             ) 
           })) }
         </section>
-      <h1>New h for checkinggit </h1>
+      <h1>New h for checking git </h1>
       </div>
 
     </main>
